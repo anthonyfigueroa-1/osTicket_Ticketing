@@ -23,6 +23,7 @@ This just briefly gives some examples for ticketing and ticketing lifestyle is l
 - Have followed and completed the steps to [post installl osTicket](https://github.com/anthonyfigueroa-1/osTicket_Post_Install)
 
 <h2>Step(s)</h2>
+  
   - Just practice creating, triaging, and solving tickets.
   - Try logging into the agents created in the post install.
   - Ticket examples:
