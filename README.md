@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket Tickets and Ticketing Lifestyle</h1>
-This just briefly explains examples and gives some photos of what ticketing and ticketing lifestyle is like using osTicket.<br />
+This just briefly gives some examples for ticketing and ticketing lifestyle is like using osTicket.<br />
 
 
 
@@ -20,6 +20,14 @@ This just briefly explains examples and gives some photos of what ticketing and 
 <h2>Prerequisites<h2>
 
 - Have followed and completed the steps to [install osTicket](https://github.com/anthonyfigueroa-1/osTicket_Installation).
-- Have followed and completed the steps to [post installl osTicket]()
+- Have followed and completed the steps to [post installl osTicket](https://github.com/anthonyfigueroa-1/osTicket_Post_Install)
 
-<h2>Steps</h2>
+<h2>Step(s)</h2>
+  - Just practice creating, triaging, and solving tickets.
+  - Try logging into the agents created in the post install.
+  - Ticket examples:
+    - Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+    - Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+    - Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+  - End Users osTicket URL: http://localhost/osTicket/
+  - Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
